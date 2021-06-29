@@ -3,3 +3,4 @@ MAINTAINER Geethaanchali
 RUN apt-get update
 CMD ["echo", "Hello world"]
 new add
+added to send text
